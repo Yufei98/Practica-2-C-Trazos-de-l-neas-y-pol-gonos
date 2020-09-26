@@ -1,1 +1,2 @@
-# Practica-2-C-Trazos-de-l-neas-y-pol-gonos
+# Practica-2-C-Trazos y poligonos
+
