@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601091009 source:c:\users\la neka\desktop\trabajo98\practica.2 c. lineas y poligonos\main.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	<GL/glut.h>
+	<C:\GLUT\include\GL\glut.h>
+
+976695772 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 c:\glut\include\gl\gl.h
+
+893401200 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
